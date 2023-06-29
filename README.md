@@ -26,4 +26,6 @@ For VFX I used EpicToonFX https://assetstore.unity.com/packages/vfx/particles/ep
 For input control I used LeanTouch https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111
 For pooling LeanPool https://assetstore.unity.com/packages/tools/utilities/lean-pool-35666
 
+Build can be found in releases
+
 _I will improve this project further mainly for practicing and portfolio purposes_
